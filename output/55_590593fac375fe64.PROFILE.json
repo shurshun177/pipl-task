@@ -1,0 +1,10 @@
+{
+  "name": {
+    "firstName": "Joe", 
+    "middleName": "", 
+    "lastName": "Cool"
+  }, 
+  "location": {
+    "city": "Greater Denver Area"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Steven", 
+    "middleName": "", 
+    "lastName": "Ackx"
+  }, 
+  "location": {
+    "city": "Bruges Area", 
+    "state": "", 
+    "country": " Belgium"
+  }
+}

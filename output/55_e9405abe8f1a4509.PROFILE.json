@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Marcio", 
+    "middleName": "", 
+    "lastName": "Elias"
+  }, 
+  "location": {
+    "city": "Rio de Janeiro", 
+    "state": " Rio de Janeiro", 
+    "country": " Brazil"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Cida", 
+    "middleName": "", 
+    "lastName": "Gawlinski"
+  }, 
+  "location": {
+    "city": "São Paulo Area", 
+    "state": "", 
+    "country": " Brazil"
+  }
+}

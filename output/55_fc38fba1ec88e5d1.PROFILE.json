@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Kristian", 
+    "middleName": "", 
+    "lastName": "Sveigaard"
+  }, 
+  "location": {
+    "city": "Copenhagen Area", 
+    "state": "", 
+    "country": " Denmark"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Angelo", 
+    "middleName": "", 
+    "lastName": "Lima Fernandes"
+  }, 
+  "location": {
+    "city": "Pune", 
+    "state": " Maharashtra", 
+    "country": " India"
+  }
+}

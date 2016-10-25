@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Fred", 
+    "middleName": "", 
+    "lastName": "Curry"
+  }, 
+  "location": {
+    "city": "Toronto", 
+    "state": "", 
+    "country": " Canada Area"
+  }
+}

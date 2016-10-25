@@ -1,0 +1,11 @@
+{
+  "name": {
+    "firstName": "Germaine", 
+    "middleName": "", 
+    "lastName": "Santon"
+  }, 
+  "location": {
+    "city": "Charlotte", 
+    "state": " North Carolina Area"
+  }
+}

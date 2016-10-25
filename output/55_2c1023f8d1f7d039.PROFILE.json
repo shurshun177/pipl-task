@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Azamat", 
+    "middleName": "", 
+    "lastName": "Turdikulov"
+  }, 
+  "location": {
+    "city": "Mannheim Area", 
+    "state": "", 
+    "country": " Germany"
+  }
+}

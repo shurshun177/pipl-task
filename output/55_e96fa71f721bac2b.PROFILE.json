@@ -1,0 +1,11 @@
+{
+  "name": {
+    "firstName": "Richard", 
+    "middleName": "", 
+    "lastName": "Goulette"
+  }, 
+  "location": {
+    "city": "Sacramento", 
+    "state": " California Area"
+  }
+}

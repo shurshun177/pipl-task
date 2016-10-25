@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Francesco", 
+    "middleName": "", 
+    "lastName": "Soncini Sessa"
+  }, 
+  "location": {
+    "city": "Milan Area", 
+    "state": "", 
+    "country": " Italy"
+  }
+}

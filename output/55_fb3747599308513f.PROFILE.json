@@ -1,0 +1,10 @@
+{
+  "name": {
+    "firstName": "Ivo", 
+    "middleName": "", 
+    "lastName": "Basso"
+  }, 
+  "location": {
+    "country": "Chile"
+  }
+}

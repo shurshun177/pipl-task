@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Mario", 
+    "middleName": "", 
+    "lastName": "Quagliuolo"
+  }, 
+  "location": {
+    "city": "Rome Area", 
+    "state": "", 
+    "country": " Italy"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Chris", 
+    "middleName": "", 
+    "lastName": "Alfonso"
+  }, 
+  "location": {
+    "city": "Charleston", 
+    "state": "", 
+    "country": " South Carolina Area"
+  }
+}

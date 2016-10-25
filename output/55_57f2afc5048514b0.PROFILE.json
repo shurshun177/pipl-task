@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Gary", 
+    "middleName": "", 
+    "lastName": "Lester"
+  }, 
+  "location": {
+    "city": "London", 
+    "state": "", 
+    "country": " United Kingdom"
+  }
+}

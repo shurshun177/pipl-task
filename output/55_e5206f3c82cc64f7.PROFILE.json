@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Michael", 
+    "middleName": "", 
+    "lastName": "Andersen"
+  }, 
+  "location": {
+    "city": "Odense Area", 
+    "state": "", 
+    "country": " Denmark"
+  }
+}

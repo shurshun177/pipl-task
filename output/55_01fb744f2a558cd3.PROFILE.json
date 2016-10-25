@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Samuel", 
+    "middleName": "", 
+    "lastName": "Leclerc"
+  }, 
+  "location": {
+    "city": "Laval", 
+    "state": " Quebec", 
+    "country": " Canada"
+  }
+}

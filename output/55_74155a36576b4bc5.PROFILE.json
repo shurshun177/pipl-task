@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Jan", 
+    "middleName": "", 
+    "lastName": "Coenen"
+  }, 
+  "location": {
+    "city": "Almere Stad Area", 
+    "state": "", 
+    "country": " Netherlands"
+  }
+}

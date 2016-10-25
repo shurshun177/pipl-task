@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Yves", 
+    "middleName": "", 
+    "lastName": "Vekemans"
+  }, 
+  "location": {
+    "city": "Antwerp Area", 
+    "state": "", 
+    "country": " Belgium"
+  }
+}

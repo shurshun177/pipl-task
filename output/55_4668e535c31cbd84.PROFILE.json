@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Bart", 
+    "middleName": "", 
+    "lastName": "Bakkeren"
+  }, 
+  "location": {
+    "city": "Tilburg Area", 
+    "state": "", 
+    "country": " Netherlands"
+  }
+}

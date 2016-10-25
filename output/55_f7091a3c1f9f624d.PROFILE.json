@@ -1,0 +1,11 @@
+{
+  "name": {
+    "firstName": "Juan", 
+    "middleName": "Francisco", 
+    "lastName": "Saldarriaga"
+  }, 
+  "location": {
+    "city": "New York", 
+    "state": " New York"
+  }
+}

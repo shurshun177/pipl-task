@@ -1,0 +1,12 @@
+{
+  "name": {
+    "firstName": "Maciej", 
+    "middleName": "", 
+    "lastName": "Hinc"
+  }, 
+  "location": {
+    "city": "Gdańsk Area", 
+    "state": "", 
+    "country": " Poland"
+  }
+}

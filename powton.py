@@ -8,5 +8,5 @@ states = ['Alabama','Alaska','Arizona','Arkansas','California','Colorado',
          'Oklahoma','Oregon','Pennsylvania','Rhode Island',
          'South  Carolina','South Dakota','Tennessee','Texas','Utah',
          'Vermont','Virginia','Washington','West Virginia',
-         'Wisconsin','Wyoming','Saint-Peterrsburg'
+         'Wisconsin','Wyoming'
     ]
